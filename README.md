@@ -1,4 +1,4 @@
-# vant-template
+# 付费平台开发
 
 ## Project setup
 ```
